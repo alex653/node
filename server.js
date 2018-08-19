@@ -8,5 +8,3 @@ http.createServer(function (req, res) {
     
 }).listen(process.env.PORT || 8080);
 
-var elem = getElementById("main");
-elem.style.color = 'red';
